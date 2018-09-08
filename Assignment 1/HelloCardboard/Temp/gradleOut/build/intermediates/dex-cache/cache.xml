@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shivendra/HelloCardboard/Temp/gradleOut/libs/libprotobuf-java-nano.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="/Users/shivendra/HelloCardboard/Temp/gradleOut/build/intermediates/pre-dexed/release/libprotobuf-java-nano_6ba99d404b985830365312b9720049fe105073b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shivendra/HelloCardboard/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="b375a689c4555d10c4706d2110f5c9913a6c4a59">
+        <dex dex="/Users/shivendra/HelloCardboard/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_fc135624e70c1a890d3abc7805d6200b87cca360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shivendra/.android/build-cache/4ddee2a86b6d11b24be0d96873b58faf86f480c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="1bdf1c662489164112ea64181ba0df59970899af">
+        <dex dex="/Users/shivendra/HelloCardboard/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_a4706d16318784d685d9cd1ea283bf7079102b57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shivendra/.android/build-cache/0a08d9097019b52f8d03e77db24ebd37e6e8f919/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
+        <dex dex="/Users/shivendra/HelloCardboard/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_381789de1cc748b21ddf6e747c0b4d12b0c75479.jar" />
+    </item>
+
+</items>

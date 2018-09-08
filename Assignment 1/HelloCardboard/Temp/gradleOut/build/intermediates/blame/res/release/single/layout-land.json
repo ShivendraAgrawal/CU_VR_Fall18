@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/shivendra/HelloCardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout-land/settings_button.xml",
+        "source": "/Users/shivendra/.android/build-cache/4ddee2a86b6d11b24be0d96873b58faf86f480c6/output/res/layout-land/settings_button.xml"
+    },
+    {
+        "merged": "/Users/shivendra/HelloCardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout-land/back_button.xml",
+        "source": "/Users/shivendra/.android/build-cache/4ddee2a86b6d11b24be0d96873b58faf86f480c6/output/res/layout-land/back_button.xml"
+    },
+    {
+        "merged": "/Users/shivendra/HelloCardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/Users/shivendra/.android/build-cache/4ddee2a86b6d11b24be0d96873b58faf86f480c6/output/res/layout-land/ui_layer_with_portrait_support.xml"
+    }
+]

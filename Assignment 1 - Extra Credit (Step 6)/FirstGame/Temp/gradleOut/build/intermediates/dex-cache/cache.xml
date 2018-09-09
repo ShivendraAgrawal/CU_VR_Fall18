@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shivendra/Desktop/CU/VR Assignments/FirstGame/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="b375a689c4555d10c4706d2110f5c9913a6c4a59">
+        <dex dex="/Users/shivendra/Desktop/CU/VR Assignments/FirstGame/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_4d1fdd2de792d6082f49da0b89e4e6e2ebd4ca27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shivendra/.android/build-cache/5104b8f83d28d7776d918cbc58078f383643ec83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
+        <dex dex="/Users/shivendra/Desktop/CU/VR Assignments/FirstGame/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_dfb7c4d3e0e91f4895bd6918f1c338f7b8284657.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shivendra/.android/build-cache/8654cad753f8699eea6c9713464ce2d16a6dbf4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="1bdf1c662489164112ea64181ba0df59970899af">
+        <dex dex="/Users/shivendra/Desktop/CU/VR Assignments/FirstGame/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_9cd672ce88a0f85958a2c0894fdc5feb5e440194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shivendra/Desktop/CU/VR Assignments/FirstGame/Temp/gradleOut/libs/libprotobuf-java-nano.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="/Users/shivendra/Desktop/CU/VR Assignments/FirstGame/Temp/gradleOut/build/intermediates/pre-dexed/release/libprotobuf-java-nano_b0b29eb08ebb4d417fe81aa34b149ab6986457d6.jar" />
+    </item>
+
+</items>
